@@ -1,0 +1,3 @@
+{"task": "Create a Python function that validates email addresses using regex", "context": "Use standard email regex pattern, handle edge cases like plus addressing"}
+{"task": "Write a bash script that backs up a directory to a timestamped archive", "context": "Use tar.gz compression, store in ./backups/ directory, include error handling"}
+{"task": "Implement a simple rate limiter class in Python using token bucket algorithm", "context": "Should support configurable rate and burst size, thread-safe"}

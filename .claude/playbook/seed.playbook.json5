@@ -1,0 +1,59 @@
+{
+  // ACE Playbook - Evolving agent heuristics through Generator → Reflector → Curator loop
+  // Last updated: 2025-10-19T23:24:00Z
+
+  "metadata": {
+    "version": "1.0.0",
+    "total_tasks_processed": 0,
+    "created_at": "2025-10-19T23:24:00Z",
+    "last_updated": "2025-10-19T23:24:00Z"
+  },
+
+  "bullets": [
+    {
+      "id": "B1",
+      "text": "Clarify hard vs soft constraints before acting.",
+      "helpful": 0,    // Count of times this heuristic proved helpful
+      "harmful": 0,    // Count of times this heuristic caused issues
+      "created_at": "2025-10-19T23:24:00Z",
+      "last_triggered": null,  // Timestamp of last usage
+      "examples": []   // Evidence from traces where this was helpful
+    },
+    {
+      "id": "B2",
+      "text": "Prefer structured tool output over prose.",
+      "helpful": 0,
+      "harmful": 0,
+      "created_at": "2025-10-19T23:24:00Z",
+      "last_triggered": null,
+      "examples": []
+    },
+    {
+      "id": "B3",
+      "text": "When blocked, enumerate alternatives before relaxing constraints.",
+      "helpful": 0,
+      "harmful": 0,
+      "created_at": "2025-10-19T23:24:00Z",
+      "last_triggered": null,
+      "examples": []
+    },
+    {
+      "id": "B4",
+      "text": "Use parallel tool calls when operations are independent.",
+      "helpful": 0,
+      "harmful": 0,
+      "created_at": "2025-10-19T23:24:00Z",
+      "last_triggered": null,
+      "examples": []
+    },
+    {
+      "id": "B5",
+      "text": "Document edge cases and assumptions in trace output.",
+      "helpful": 0,
+      "harmful": 0,
+      "created_at": "2025-10-19T23:24:00Z",
+      "last_triggered": null,
+      "examples": []
+    }
+  ]
+}

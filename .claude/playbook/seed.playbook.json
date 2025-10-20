@@ -1,0 +1,34 @@
+{
+  "bullets": [
+    {
+      "id": "B1",
+      "text": "Clarify hard vs soft constraints before acting.",
+      "helpful": 0,
+      "harmful": 0
+    },
+    {
+      "id": "B2",
+      "text": "Prefer structured tool output over prose.",
+      "helpful": 0,
+      "harmful": 0
+    },
+    {
+      "id": "B3",
+      "text": "When blocked, enumerate alternatives before relaxing constraints.",
+      "helpful": 0,
+      "harmful": 0
+    },
+    {
+      "id": "B4",
+      "text": "Use parallel tool calls when operations are independent.",
+      "helpful": 0,
+      "harmful": 0
+    },
+    {
+      "id": "B5",
+      "text": "Document edge cases and assumptions in trace output.",
+      "helpful": 0,
+      "harmful": 0
+    }
+  ]
+}
